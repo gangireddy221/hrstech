@@ -1,0 +1,10 @@
+maven life cycle goals:
+
+validate : it validate project details 
+compile : it compile the code and generate .class files 
+test : 	to test the suitable unit test framework
+package : it create the .jar, .war file 
+verify : it run the integration sets 
+install : it install the package locally
+deploy : it copy the final output to the remote repository
+ 
